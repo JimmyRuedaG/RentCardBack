@@ -1,0 +1,6 @@
+@RentCard_HostAddress = http://localhost:5069
+
+GET {{RentCard_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
